@@ -43,5 +43,7 @@ The application is about mange waste in the city and access to show capicity of 
 
 
 
-Uploading record-2023-03-13-03-05-21_rjYrlw9d.mp4…
+https://github.com/mohammed28ali/city_waste_management/assets/43098702/51353c03-e3e3-4982-ab6e-6f6168e5ba2f
+
+
 
