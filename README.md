@@ -38,3 +38,10 @@ The application is about mange waste in the city and access to show capicity of 
 - [x] [at_gauges]
 - [x] [flutter_launcher_icons_maker]
 --------------------------
+
+
+
+
+
+Uploading record-2023-03-13-03-05-21_rjYrlw9d.mp4…
+
