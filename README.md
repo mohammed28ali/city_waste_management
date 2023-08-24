@@ -10,7 +10,7 @@ City Waste Management app is open-source  app for Android & ios. It is built wit
 
 
 ## About
-The application is about mange waste in the city and access to show capicity of ccccccbage bo.
+The application is about mange waste in the city and access to show capicity of carbage box with sensors show the limit .
 
 ## Screens
 
